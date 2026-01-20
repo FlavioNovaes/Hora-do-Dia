@@ -6,6 +6,17 @@ Este projeto foi desenvolvido com base nas aulas do Curso em Vídeo, ministradas
 
 ---
 
+## 🖼️ Preview do Projeto
+
+### 🌅 Manhã
+![Manhã](img/hora-do-dia-manha.png)
+
+### ☀️ Tarde
+![Tarde](img/hora-do-dia-tarde.png)
+
+### 🌙 Noite
+![Noite](img/hora-do-dia-noite.png)
+
 ## 🚀 Funcionalidades
 
 - Detecta automaticamente a hora atual do sistema
