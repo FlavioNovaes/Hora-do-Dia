@@ -7,7 +7,7 @@ Este projeto foi desenvolvido com base nas aulas do Curso em Vídeo, ministradas
 ![HTML](https://img.shields.io/badge/Python-3.x-blue)
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-orange)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 ---
 
